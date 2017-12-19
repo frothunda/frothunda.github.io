@@ -1,0 +1,12 @@
+body{
+  font-family: 'Alegreya Sans', sans-serif;
+}
+.jumbotron{
+  background-color: #FE825A;
+}
+.jumbotron h1{
+  font-family: 'Courgette', cursive;
+}
+footer{
+  background-color: #FE825A;
+}
